@@ -20,6 +20,8 @@ Old gopros are a proven low budget tool for high definition camera systems. They
 Next up was the propulsion system!
 For this i designed a custom thruster case to fit my 980kv sunnysky BLDC motors. I wanted to be able to just copy and paste the thrusters so that I could easily model the whole thing around the same repeating geometry. For this reason I decided to make it a the shape of a barrel that can easily be replaced if anything corrodes or breaks.
 
+<img width="4032" height="3024" alt="IMG_0013" src="https://github.com/user-attachments/assets/484dab5b-355c-4cc7-912a-17abd5e1bd2b" />
+
 My test of the thruster at low speed in my bathroom sink:
 
 https://github.com/user-attachments/assets/cb4b14ec-2ffa-4109-a6d4-e576eac1fb48
@@ -44,7 +46,11 @@ The Rasberry pi is used as the companion computer to the pixhawk flight controll
 To power the motors I use a 4 in 1 HackRC drone ESC and 2 single Littlebee ESCs, each channel is rated for 25A.
 I also decided to mount a small 3d printer fan because these ESC's will get HOT!
 Finally I wanted to include 4 LED's so I also mounted the drivers into the bottom of the configuration. 
+Heres the power schematics i'm using
+<img width="1044" height="587" alt="Screenshot 2026-09-27 at 6 01 12 PM" src="https://github.com/user-attachments/assets/da1af9fb-5527-4c02-b648-17c9985df585" />
+
 The wires are then routed out of the 3d printed endcap, soldered together and then the solder joint is potted in epoxy for maximum pressure rating, then the ethernet cable goes into a WEIPU female connector to attach to the ethernet cable tether going up to the surface!
+
 Thats about it for the electronics
 
 All of the electronics fit inside of a 80ID x 90OD acrylic pipe that is 320 mm long
