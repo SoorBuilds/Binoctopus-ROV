@@ -85,5 +85,5 @@ https://github.com/user-attachments/assets/647f90c3-3dfa-40e7-80a8-27e3c8544850
 Thats it for the shell! 
 For the software, I will just be using the standard Ardusub firmware downloaded onto the pixhawk flight controller, for the surface computer I will use QGround control to be able to control the whole thing with my PS4 controller and view the camera feeds in my oculus quest headset!
 
-
+My personal BOM (what I need to build this, I have most if it already) [Binoctopus ROV V1 BOM - What I need BOM(2).csv](https://github.com/user-attachments/files/32712083/Binoctopus.ROV.V1.BOM.-.What.I.need.BOM.2.csv)
 
