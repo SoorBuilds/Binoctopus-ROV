@@ -52,6 +52,7 @@ Heres the power schematics i'm using
 The wires are then routed out of the 3d printed endcap, soldered together and then the solder joint is potted in epoxy for maximum pressure rating, then the ethernet cable goes into a WEIPU female connector to attach to the ethernet cable tether going up to the surface!
 
 Thats about it for the electronics
+After designing this I went through it with my friends dad who is an Electrical Engineer. He approved!
 
 All of the electronics fit inside of a 80ID x 90OD acrylic pipe that is 320 mm long
 The endcaps are 3d printed and the cables are passed through with solder joints to stop capilary action up the cable insulation. Then the whole endcap, cable joints included, is potted in epoxy 
