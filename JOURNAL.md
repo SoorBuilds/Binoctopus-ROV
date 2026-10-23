@@ -26,7 +26,7 @@ Designed a weedguard that screws into the thruster itself, this should protect m
 
 Improved on the design of V1 which I realized would not work. It didn't leave enough room for the motor's nose cone that mounted on top of the propeller, the weedguard threads didn't print well, and the mounting screws of the motor didn't have any place to rest. I fixed these issues in Fusion. Then I tested the new design in my sink (It worked) 
 
-LINK THE VIDEO OF IT WORKING UP THERE
+LINK THE VIDEO OF IT WORKING IN THE README
  
 [Lapse Link](https://lapse.hackclub.com/timelapse/ATlY3XvuAbp5)
 
