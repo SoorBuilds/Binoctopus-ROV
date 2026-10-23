@@ -18,4 +18,14 @@ Rasberry pi companion computer running BlueOS
 Pixhawk running ArduSub
 (ArduSub turns the signals coming out of the rasberry pi into PWM controls going to each of the 6 motor's ESCs based on the thrust mapping (which I have yet to do) and it recieves I2C signals from the pressure sensor/power module to send that back up)
 
-[Here is the link to the sourcecode for ardusub](https://github.com/ArduPilot/ardupilot/tree/master/ArduSub?utm_source=chatgpt.com)
+^^^^^^^
+
+Motors flashed with BLHeli_S allowing them to spin backwards on command.
+
+[Here is the link to the sourcecode for ArduSub](https://github.com/ArduPilot/ardupilot/tree/master/ArduSub?utm_source=chatgpt.com)
+
+[Here is the link to the sourcecode for BLHeli_S](https://github.com/bitdump/BLHeli/tree/master/BLHeli_S%20SiLabs?utm_source=chatgpt.com)
+
+[Here is the link to the sourcecode for BlueOS](https://github.com/bluerobotics/BlueOS?utm_source=chatgpt.com)
+
+[Here is the sourcecode for QGroundControl](https://github.com/mavlink/qgroundcontrol?utm_source=chatgpt.com)
