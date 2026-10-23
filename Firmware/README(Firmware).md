@@ -6,7 +6,7 @@ Surface laptop running QGround Control with video feed going to Oculus via USB C
 
 ^^^^^
 
-MavLink communication through ethernet tether
+MavLink communication protocol through ethernet tether
 
 ^^^^^^
 
@@ -16,6 +16,6 @@ Rasberry pi companion computer running BlueOS
 ^^^^^
 
 Pixhawk running ArduSub
-(ArduSub turns the signals coming out of the rasberry pi into PWM controls going to each of the 6 motors based on the thrust mapping (which I have yet to do) and it recieves I2C signals from the pressure sensor/power module to send that back up)
+(ArduSub turns the signals coming out of the rasberry pi into PWM controls going to each of the 6 motor's ESCs based on the thrust mapping (which I have yet to do) and it recieves I2C signals from the pressure sensor/power module to send that back up)
 
 [Here is the link to the sourcecode for ardusub](https://github.com/ArduPilot/ardupilot/blob/master/ArduSub/UserCode.cpp?)
